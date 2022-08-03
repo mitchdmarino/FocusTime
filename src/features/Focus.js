@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     padding: spacing.lg,
-    justifyContent: 'top',
+    justifyContent: 'space-between',
     flexDirection: 'row',
   },
   button: {
